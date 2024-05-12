@@ -10,7 +10,7 @@ Place for files description
 
 ## Data Sources
 
-More detailes about used datasets you can find in the separeted repo: https://github.com/sukiennik-monika/SUV-Sales-Determination-Dataset
+More detailes about used datasets you can find in the separeted repo [SUV Sales Determination Dataset](https://github.com/sukiennik-monika/SUV-Sales-Determination-Dataset) 
 
 ## Contact
 
